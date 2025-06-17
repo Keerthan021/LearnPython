@@ -9,3 +9,13 @@ print(f'This is new print{file.read()}')
 print(f'This is new print{file.read()}')
 print(f'This is new print{file.read()}')
 print(f'This is new print{file.read()}')
+
+
+file = open('file.txt')
+
+print(file.read())
+
+print(f'This is new print{file.read()}')
+print(f'This is new print{file.read()}')
+print(f'This is new print{file.read()}')
+print(f'This is new print{file.read()}')
